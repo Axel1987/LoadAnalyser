@@ -59,7 +59,7 @@ $ php your_script.php --live
 ## Install with Laravel
 Get PHP performance tool by running the Composer command in the command line. 
 ```
- $ composer require AxelDzhurko/LoadAnalyser
+ $ composer require Axel1987/LoadAnalyser
 ```
 
 Open your file for the performance test.
