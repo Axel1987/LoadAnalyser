@@ -1,5 +1,5 @@
 {
-    "name": "AxelDzhurko/LoadAnalyser",
+    "name": "axel-dzhurko/load-analyser",
     "description": "PHP performance tool analyser your script on time, memory usage and db query. Support Laravel and Composer for web, web console and command line interfaces.",
     "version": "1.0.0",
     "keywords": [
